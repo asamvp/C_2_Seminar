@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Администратор\\.nuget\\packages\\": {}
+    "C:\\Users\\Антон\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Администратор\\Desktop\\С_2_Seminar\\С_2_Seminar.csproj",
+      "projectUniqueName": "C:\\Users\\Антон\\Desktop\\С_2_Seminar\\1\\С_2_Seminar.csproj",
       "projectName": "С_2_Seminar",
-      "projectPath": "C:\\Users\\Администратор\\Desktop\\С_2_Seminar\\С_2_Seminar.csproj",
-      "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Администратор\\Desktop\\С_2_Seminar\\obj\\",
+      "projectPath": "C:\\Users\\Антон\\Desktop\\С_2_Seminar\\1\\С_2_Seminar.csproj",
+      "packagesPath": "C:\\Users\\Антон\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Антон\\Desktop\\С_2_Seminar\\1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Антон\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
